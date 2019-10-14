@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TREDS.Virginia.Gov.QA", "TREDS.Virginia.Gov.QA\TREDS.Virginia.Gov.QA.csproj", "{26F4AE94-FFB5-4A1D-9AB2-F658BE7150C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TREDS.Virginia.Gov.QA.TDD", "TREDS.Virginia.Gov.QA.TDD\TREDS.Virginia.Gov.QA.TDD.csproj", "{4DAFCE95-5AAF-4735-956F-250790C6B379}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{940ECFD5-5889-41E8-AC07-D5A035AAD7F1}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		TREDS.Virginia.Gov.QA.vsmdi = TREDS.Virginia.Gov.QA.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TREDS.Virginia.Gov.QA.Utility", "TREDS.Virginia.Gov.QA.Utility\TREDS.Virginia.Gov.QA.Utility.csproj", "{AD2C45AE-F077-4BD2-919C-2B7A808A372B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Help", "Help", "{614D7EE5-EA9E-432C-BD3C-AA08D0CE770F}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://wap00682:8080/tfs/dmv-tfs-collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TREDS.Virginia.Gov.QA\\TREDS.Virginia.Gov.QA.csproj
+		SccProjectName1 = TREDS.Virginia.Gov.QA
+		SccLocalPath1 = TREDS.Virginia.Gov.QA
+		SccProjectUniqueName2 = TREDS.Virginia.Gov.QA.TDD\\TREDS.Virginia.Gov.QA.TDD.csproj
+		SccProjectName2 = TREDS.Virginia.Gov.QA.TDD
+		SccLocalPath2 = TREDS.Virginia.Gov.QA.TDD
+		SccProjectUniqueName3 = TREDS.Virginia.Gov.QA.Utility\\TREDS.Virginia.Gov.QA.Utility.csproj
+		SccProjectName3 = TREDS.Virginia.Gov.QA.Utility
+		SccLocalPath3 = TREDS.Virginia.Gov.QA.Utility
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F4AE94-FFB5-4A1D-9AB2-F658BE7150C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F4AE94-FFB5-4A1D-9AB2-F658BE7150C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F4AE94-FFB5-4A1D-9AB2-F658BE7150C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F4AE94-FFB5-4A1D-9AB2-F658BE7150C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAFCE95-5AAF-4735-956F-250790C6B379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAFCE95-5AAF-4735-956F-250790C6B379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAFCE95-5AAF-4735-956F-250790C6B379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAFCE95-5AAF-4735-956F-250790C6B379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2C45AE-F077-4BD2-919C-2B7A808A372B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2C45AE-F077-4BD2-919C-2B7A808A372B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2C45AE-F077-4BD2-919C-2B7A808A372B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2C45AE-F077-4BD2-919C-2B7A808A372B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TREDS.Virginia.Gov.QA.vsmdi
+	EndGlobalSection
+EndGlobal

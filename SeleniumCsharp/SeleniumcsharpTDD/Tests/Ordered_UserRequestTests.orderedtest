@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="ordered_userrequesttests" storage="c:\vahso\treds\development\release 6.4\treds.virginia.gov.qa\treds.virginia.gov.qa.tdd\tests\ordered_userrequesttests.orderedtest" id="b2c9498d-49c1-425b-b200-8202683ad1a1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Execution id="0935c230-337f-450e-8b13-f25477365702" />
+  <TestLinks>
+    <TestLink id="4f333871-ca06-9926-5891-b966285b4879" name="CreateUserRequestTest" storage="..\bin\release\treds.virginia.gov.qa.tdd.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="fc0216a3-27a7-3057-3e86-98d7517cfb84" name="ViewAndValidateUserRequestTest" storage="..\bin\release\treds.virginia.gov.qa.tdd.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="14838b48-294e-c1ba-0ebb-0bd62df0309d" name="EditUserRequestTest" storage="..\bin\release\treds.virginia.gov.qa.tdd.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
